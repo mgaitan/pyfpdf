@@ -2,7 +2,7 @@ pyfpdf: FPDF for Python
 =======================
 
 > [!IMPORTANT] 
-> This project was compatible with legacy versions of Python is virtually discontinued. If your are looking for a modern version under active development, please visit [fpdf2](https://github.com/py-pdf/fpdf2).
+> This project was compatible with legacy versions of Python and is discontinued. If your are looking for a modern version under active development, please visit [fpdf2](https://github.com/py-pdf/fpdf2).
 
 
 PyFPDF is a library for PDF document generation under Python, ported from PHP
